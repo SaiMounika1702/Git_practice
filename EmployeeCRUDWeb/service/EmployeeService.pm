@@ -15,7 +15,7 @@ sub new {
         port     => $Database::PORT,
         database => $Database::DATABASE,
         username => $Database::USERNAME,
-        password => $Database::Adroitent
+        password => $Database::stratus
     }, $class;
 }
 
