@@ -11,7 +11,7 @@ use Database;
 sub new {
     my $class = shift;
     return bless {
-        host     => $Database::HOST,
+        host     => $Databasegbrbbgb::HOST,
         port     => $Database::PORT,
         database => $Database::DATABASE,
         username => $Database::USERNAME,
